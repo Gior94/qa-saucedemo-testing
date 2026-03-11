@@ -3,18 +3,20 @@
 ## Test Case SDQA-5
 
 Title:
-Check filter button with no functionality
+Verify filter button functionality
 
 Environment:
-MacOS Tahoe 26.1
+MacOS Tahoe
 Chrome Browser
 
 Steps:
-1. Login to https://www.saucedemo.com to the inventory page
-2. Click the upside down triangle button in the "filters" section
+1. Navigate to https://www.saucedemo.com
+2. Login with valid credentials
+3. Go to the inventory page
+4. Click the filter button (upside down triangle icon)
 
 Expected Result:
-The system should re-order the products to the inverse depending de filter
+Products should reorder according to the selected filter
 
 Execution Result: FAIL
-The button has no functionality
+The button does not trigger any action when clicked
