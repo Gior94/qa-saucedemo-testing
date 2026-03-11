@@ -1,6 +1,6 @@
 # Login Test Cases
 
-## Test Case 2
+## Test Case SDQA-2
 
 Steps:
 1. Navigate to https://www.saucedemo.com
