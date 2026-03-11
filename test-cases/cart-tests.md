@@ -1,6 +1,6 @@
 # Cart Test Cases
 
-## Test Case 3
+## Test Case SDQA-3
 
 Title:
 Verify cart icon updates item count after removing a product
