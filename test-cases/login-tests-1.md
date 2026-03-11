@@ -1,6 +1,6 @@
 # Login Taste Cases
 
-## Test Case 1
+## Test Case SDQA-1
 
 Title:
 Test login functionality with login credentials
