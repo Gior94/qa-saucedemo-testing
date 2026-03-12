@@ -23,6 +23,9 @@ The following funcionalities were tested:
 - Shopping cart behavior
 - Product filters
 - Checkout process
+- Back button, session logout and refresh behavior
+- Direct URL access to checkout page
+- Duplicate checkout submissions
 
 ## Test Cases
 
@@ -41,6 +44,11 @@ bug-reports/
 Screenshots and test execution and bugs are stored in:
 
 evidence//
+
+# Results
+
+Total Test Cases: 10
+Bugs Found: 2
 
 ## Tools Used
 
