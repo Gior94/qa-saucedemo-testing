@@ -48,6 +48,9 @@ evidence//
 # Results
 
 Total Test Cases: 10
+Executed: 10
+Passed: 8
+Failed: 2
 Bugs Found: 2
 
 ## Tools Used
