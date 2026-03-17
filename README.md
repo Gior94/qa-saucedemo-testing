@@ -9,6 +9,7 @@ The objective of this project manual testing techniques including:
 - Test case creation
 - Bug reporting
 - Test execution
+- Technical audit
 - Evidence documentation
 
 ## Website tested
@@ -26,6 +27,12 @@ The following funcionalities were tested:
 - Back button, session logout and refresh behavior
 - Direct URL access to checkout page
 - Duplicate checkout submissions
+
+Technical Deep-Dive
+
+- Cart's state management in LocalStorage
+- Session hijacking/ expiration
+- Network performance
 
 ## Test Cases
 
@@ -57,6 +64,7 @@ Bugs Found: 2
 
 - Jira (for issue tracking)
 - GitHub (for documentation)
+- DevTools (for technical audit)
 
 ## Tester
 
